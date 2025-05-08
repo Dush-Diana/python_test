@@ -1,4 +1,5 @@
 print("user 1")
 
-colors = {'red', 'blue', 'orange'}
-name = 'Diana'
+print("user 2")
+print("user 3")
+print("user 4")
